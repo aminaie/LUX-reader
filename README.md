@@ -1,5 +1,5 @@
 # LUX-reader
-In this project, I use the MAX44009 sensor and ATmega32 to measure the lux value of the environment to build. This module can be used to build optical-based IoT modules.
+In this project, I use the MAX44009 sensor and ATmega32 to measure the lux value of the environment. This module can be used to build optical-based IoT modules.
 
 The MAX44009 ambient light sensor features an I2C
 digital output that is ideal for a number of portable applications
@@ -9,6 +9,7 @@ lowest power ambient light sensor in the industry and
 features an ultra-wide 22-bit dynamic range from 0.045
 lux to 188,000 lux.
 
+To compile the code, I use MicroC Pro environment.
 
 you can see my setup and results below:
 
